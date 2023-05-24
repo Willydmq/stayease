@@ -21,7 +21,7 @@
 # Link Proyecto
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="../airbn/client/public/StayEase.png" width="50px">
+    <img src="/client/public/StayEase.png" width="50px">
     <a style="color: blue; font-size: 20px; display: block; text-align: center;" href="#" target="_blank">StayEase</a>
 </div>
 
